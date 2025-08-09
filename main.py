@@ -47,6 +47,10 @@ def game_start():
             "question": "Which continent is the largest in terms of surface area?",
             "options": ["a) Atlantis", "b) America", "c) Asia", "d) Africa"],
         },
+        {
+            "question": "Who wrote 'Don Quixote de la Mancha'?",
+            "options": ["a) Cervantes", "b) Cortazar", "c) Fuentes", "d) Verne"],
+        },
     ]
 
     print(questions[1]["question"])
